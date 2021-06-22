@@ -18,10 +18,10 @@ This project published in google play store: [Secure Digital Wallet](https://pla
 </p>
 
 
-## 	Merhaba Turkish
+## 	Merhaba Turkish Android
 
-This project published in google play store: [Merhaba Turkish](https://play.google.com/store/apps/details?id=com.atasoft.hiturkish).
-Admin panle is hiturkish.com
+This project published in google play store: [Merhaba Turkish](https://play.google.com/store/apps/details?id=com.atasoft.hiturkish). <br/>
+Admin panle is hiturkish.com <br />
 #Kotlin #Retrofit #LiveData #data_binding #dagger #sqlite-cipher #MvvM #Mvc #asp.net #.net_core #sqlserver #razor 
 <p float="left">
   <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt1.webp?raw=true" alt="drawing" width="200px" height="400px"/>
@@ -32,6 +32,24 @@ Admin panle is hiturkish.com
   <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt6.webp?raw=true" alt="drawing" width="200px" height="400px"/>
   <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt7.webp?raw=true" alt="drawing" width="200px" height="400px"/>
   <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt8.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+</p>
+[https://www.youtube.com/watch?v=AGGae0bcwBQ](https://www.youtube.com/watch?v=AGGae0bcwBQ).
+
+## 	Merhaba Turkish IOS
+
+This project will be published in app store<br/>
+Admin panle is hiturkish.com <br />
+#Swift #AlamoFire #realm #Mvc #asp.net #.net_core #sqlserver #razor 
+<p float="left">
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios1.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios2.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios3.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios4.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios5.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios6.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios7.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios8.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios9.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
 </p>
 [https://www.youtube.com/watch?v=AGGae0bcwBQ](https://www.youtube.com/watch?v=AGGae0bcwBQ).
 
