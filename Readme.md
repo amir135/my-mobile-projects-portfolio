@@ -36,21 +36,52 @@ Admin panle is hiturkish.com
 [https://www.youtube.com/watch?v=AGGae0bcwBQ](https://www.youtube.com/watch?v=AGGae0bcwBQ).
 
 
+## 	USA National Anthem with Subtitle
+
+This project published in google play store: [USA National Anthem with Subtitle](https://play.google.com/store/apps/details?id=com.atasoft.usanationalanthem).
+
+#Kotlin 
+<p float="left">
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/us/us1.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/us/us2.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+
+</p>
+
 ## 	Turkish Russian Offline Dictionary
 
 This project published in google play store: [Turkish Russian Offline Dictionary](https://play.google.com/store/apps/details?id=com.atasoft.hiturkishRu).
-Admin panle is hiturkish.com
+
 #Kotlin #Retrofit #LiveData #NDK #data_binding #dagger #sqlite-cipher #MvvM #Mvc #asp.net #.net_core #sqlserver #razor 
 <p float="left">
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt1.webp?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt2.webp?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt3.webp?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt4.webp?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt5.webp?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt6.webp?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt7.webp?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt8.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/rutr/rutr1.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/rutr/rutr2.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/rutr/rutr3.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/rutr/rutr4.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/rutr/rutr5.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/rutr/rutr6.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/rutr/rutr7.webp?raw=true" alt="drawing" width="200px" height="400px"/>
 </p>
+
+## 	Live Vehicle tracking
+
+This project completed and worked in private transport company
+
+#Java #Retrofit #SignalR #Socket_Programming #Mvp #Mvc #asp.net #sqlserver #razor 
+<p float="left">
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/trc/trc1.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/trc/trc2.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/trc/trc3.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/trc/trc4.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/trc/trc5.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/trc/trc6.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/trc/trc7.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/trc/trc8.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/trc/trc9.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/trc/trc10.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/trc/trc11.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+
+</p>
+
 ## Usage
 
 ```python
