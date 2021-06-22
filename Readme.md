@@ -5,10 +5,34 @@ This page is for displaying my completed and published projects.
 ## 	Secure Digital Wallet
 
 This project published in google play store: [Secure Digital Wallet](https://play.google.com/store/apps/details?id=com.isteknoloji.secure.digital.wallet).
+#Kotlin #dagger #sqlite-cipher #MvvM 
+<p float="left">
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw1.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw2.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw3.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw4.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw5.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw6.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw7.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw8.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+</p>
 
-```bash
-pip install foobar
-```
+
+## 	Merhaba Turkish
+
+This project published in google play store: [Secure Digital Wallet](https://play.google.com/store/apps/details?id=com.atasoft.hiturkish).
+Admin panle is hiturkish.com
+#Kotlin #Retrofit #LiveData #data_binding #dagger #sqlite-cipher #MvvM #Mvc #asp.net #.net_core #sqlserver #razor 
+<p float="left">
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw1.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw2.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw3.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw4.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw5.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw6.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw7.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/sdw/sdw8.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+</p>
 
 ## Usage
 
