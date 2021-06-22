@@ -1,11 +1,3 @@
-- 👋 Hi, I’m Amir Tavizi Bonab
-- 👀 This page is for displaying my completed and published projects.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-
 #  Hi, I’m Amir Tavizi Bonab
 
 This page is for displaying my completed and published projects.
