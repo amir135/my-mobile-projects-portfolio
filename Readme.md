@@ -33,7 +33,7 @@ Admin panle is hiturkish.com <br />
   <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt7.webp?raw=true" alt="drawing" width="200px" height="400px"/>
   <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrt/mrt8.webp?raw=true" alt="drawing" width="200px" height="400px"/>
 </p>
-[https://www.youtube.com/watch?v=AGGae0bcwBQ](https://www.youtube.com/watch?v=AGGae0bcwBQ).
+https://www.youtube.com/watch?v=AGGae0bcwBQ
 
 ## 	Merhaba Turkish IOS
 
@@ -41,17 +41,17 @@ This project will be published in app store<br/>
 Admin panle is hiturkish.com <br />
 #Swift #AlamoFire #realm #Mvc #asp.net #.net_core #sqlserver #razor 
 <p float="left">
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios1.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios2.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios3.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios4.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios5.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios6.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios7.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios8.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrtios9.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrbios1.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrbios2.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrbios3.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrbios4.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrbios5.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrbios6.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrbios7.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrbios8.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/mrtios/mrbios9.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
 </p>
-[https://www.youtube.com/watch?v=AGGae0bcwBQ](https://www.youtube.com/watch?v=AGGae0bcwBQ).
+
 
 
 ## 	USA National Anthem with Subtitle
