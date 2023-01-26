@@ -2,6 +2,19 @@
 
 This page is for displaying my completed and published projects.
 
+## 	Hurriyet news android application 
+
+This project published in google play store: [Hurriyet on google play](https://play.google.com/store/apps/details?id=hurriyet.mobil.android&hl=en&gl=US).
+#Kotlin #hilt-dagger #Room #Retrofit #MvvM #KotlinFlow
+<p float="left">
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/hur/h1.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/hur/h2.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/hur/h3.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/hur/h4.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/hur/h5.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/hur/h6.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+</p>
+
 ## 	Smart city android application (izmir/tuekry)
 
 This project published in google play store: [IZUM](https://play.google.com/store/apps/details?id=com.ibb.izumApp&hl=en&gl=US).
