@@ -9,9 +9,9 @@ This project published in google play store: [IZUM](https://play.google.com/stor
 <p float="left">
   <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/iz/i0.webp?raw=true" alt="drawing" width="200px" height="400px"/>
   <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/iz/i1.webp?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/iz/i2.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/iz/i3.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
-  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/iz/i4.jpg?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/iz/i2.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/iz/i3.webp?raw=true" alt="drawing" width="200px" height="400px"/>
+  <img src="https://github.com/amir135/my-mobile-projects-portfolio/blob/master/images/iz/i4.webp?raw=true" alt="drawing" width="200px" height="400px"/>
 </p>
 
 ## 	Secure Digital Wallet
